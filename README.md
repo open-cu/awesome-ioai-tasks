@@ -47,6 +47,10 @@ A collection for IOAI tasks from different years and national team selections.
 - [Day 2: Player Clustering](https://github.com/batyrq/IOAI-TST-solution-day2) – ML – cluster football players by statistics.
 - [Day 3: Code Difficulty Classification](https://github.com/batyrq/IOAI-TST-solution-day3) – NLP – label code snippets as easy, medium, or hard.
 - [Day 4: Masked Word Position](https://github.com/batyrq/IOAI-TST-solution-day4) – NLP – recover the position of a masked word in a sentence.
+- [All solutions](https://github.com/batyrq) – Consolidated repository for Kazakhstan's IOAI team selection tasks.
+
+## Malaysia – IOAI Training and Selection Programme 2025
+- [Lab repository](https://github.com/jaredliw/ioai-tsp-2025) – ML/CV/Multimodal – ResNet fine-tuning, FCN segmentation, and multimodality labs for Malaysia's team.
 
 ## Northern Eurasia – NEOAI 2025
 - [Evading AI Generated Text Detection](https://github.com/open-cu/neoai-2025/tree/main/3_Evading_AI_Generated_Text_Detection) – NLP – craft text that bypasses detectors.
@@ -75,6 +79,7 @@ A collection for IOAI tasks from different years and national team selections.
 - **County Round (OJIA) – Apr 29, 2025:** [Example problems](https://github.com/Olimpiada-AI/Propunere-probleme-si-solutii) – Tabular ML – train/test prediction tasks on Nitro AI Judge.
 - **National Round (May 16–19, 2025, Bucharest):** CV & NLP – Byzantine musical-notation classification; human vs AI text detection.
 - **Training & Selection Camp (Jun 17–24, 2025, Bucharest):** [Article](https://ioai-official.org/romanias-national-ai-olympiad-roai-2025-kicks-off-with-government-backed-edition/) – ML/CV/NLP – three 5‑hour exams to choose the IOAI team.
+- [Solution write-ups](https://github.com/stefanasandei/roai-solved/blob/main/00-guide/rezolvari.md) – Detailed analyses of ROAI problems.
 
 ## Serbia – National Selection for IOAI 2025
 - National finals (dates TBA) – scientific questions followed by team practical projects; top 4 advance.
