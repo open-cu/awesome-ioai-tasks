@@ -19,6 +19,9 @@ A collection for IOAI tasks from different years and national team selections.
 ## Benin – National AI Olympiad Selection 2025
 - [Kaggle competition](https://www.kaggle.com/competitions/benin-national-ai-olympiad-selection) – ML (binary classification) – build a classifier and submit predictions.
 
+## Bangladesh – BdAIO 2025
+- [Preliminary Round](https://github.com/mdajijulhakimquanta/BdAIO/blob/main/bdaio-2025-preliminary.pdf) – Algorithms – 11 AI-themed programming challenges on Toph.
+
 ## China – NOAI 2024
 - [Basketball Shooting](https://github.com/jaredliw/ioai-tsp-2025/tree/main/noai-china-2024/basketball-shooting) – Tabular ML – predict basketball shooting percentages.
 - [News Text Classification](https://github.com/jaredliw/ioai-tsp-2025/tree/main/noai-china-2024/news-text-classification) – NLP – categorize news articles.
@@ -46,7 +49,11 @@ A collection for IOAI tasks from different years and national team selections.
 - [Day 4: Masked Word Position](https://github.com/batyrq/IOAI-TST-solution-day4) – NLP – recover the position of a masked word in a sentence.
 
 ## Northern Eurasia – NEOAI 2025
-- [Main Kaggle page](https://www.kaggle.com/competitions/neoai-2025/overview) – Mixed tasks (ML, CV, NLP, generative) across eight competitions. [Solutions](https://github.com/open-cu/neoai-2025/)
+- [Evading AI Generated Text Detection](https://github.com/open-cu/neoai-2025/tree/main/3_Evading_AI_Generated_Text_Detection) – NLP – craft text that bypasses detectors.
+- [Broken BERT](https://github.com/open-cu/neoai-2025/tree/main/5_Broken_BERT) – NLP – repair a corrupted BERT model.
+- [Cuties Segmentation](https://github.com/open-cu/neoai-2025/tree/main/8_Cuties_Segmentation) – CV – segment cartoon characters.
+- [Hogspell Challenge](https://github.com/lenjjiv/steering-hogs) – Generative – steer diffusion models to conjure hogs.
+- TODO: add remaining four competitions once resources are available.
 
 ## Poland – Polish AI Olympiad
 ### 1st Edition – 2024
