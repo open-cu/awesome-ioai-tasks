@@ -1,6 +1,8 @@
 # awesome-ioai-tasks
 A collection for IOAI tasks from different years and national team selections.
 
+We're going to search for more tasks from national selections and double-check everything, but we're happy if you submit a PR with some links to your tasks or solutions, so we can add them. Thank you!
+
 ## IOAI 2024 – 1st Edition
 ### Scientific Round – At-Home Stage (July 2024)
 - [Problem statements](https://ioai-official.org/wp-content/uploads/2025/06/At-home-problems.zip) – NLP – fine-tune a language model on provided text. [Solutions](https://ioai-official.org/wp-content/uploads/2025/06/At-home-solutions.zip)
