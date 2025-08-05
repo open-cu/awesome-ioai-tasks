@@ -1,7 +1,7 @@
 # awesome-ioai-tasks
 A collection for IOAI tasks from different years and national team selections.
 
-We're going to search for more tasks from national selections and double-check everything, but we're happy if you submit a PR with some links to your tasks or solutions, so we can add them. Thank you!
+We're going to search for more tasks from national selections and fix the links, but we're happy if you submit a PR with some links to your tasks or solutions, so we can add them. Thank you!
 
 ## IOAI 2024 – 1st Edition
 ### Scientific Round – At-Home Stage (July 2024)
@@ -17,6 +17,25 @@ We're going to search for more tasks from national selections and double-check e
 ### Practical Round – On-Site (Aug 2024)
 - [Assignment](https://ioai-official.org/wp-content/uploads/2025/06/Practical-round-assignment.zip) – Generative AI (Image) – create an album cover for the remix of “Love.” [Best solution](https://ioai-official.org/wp-content/uploads/2025/06/Practical-best-solution.zip)
 - [Assignment](https://ioai-official.org/wp-content/uploads/2025/06/Practical-round-assignment.zip) – Generative AI (Video) – produce a short video segment for the remix. [Best solution](https://ioai-official.org/wp-content/uploads/2025/06/Practical-best-solution.zip)
+
+## APOAI (Asia-Pacific Olympiad in AI)
+
+* [APOAI 2025 Competition](https://www.bohrium.com/competitions/7647426696?tab=introduce) - Info - overview of tasks and introduction
+
+## NEOAI (Northern Eurasia Olympiad in AI)
+
+### NEOAI 2025 Competitions
+
+- [Evading AI-Generated Text Detection](https://github.com/open-cu/neoai-2025/tree/main/3_Evading_AI_Generated_Text_Detection) - NLP - craft AI text that bypasses detectors
+- [Broken BERT](https://github.com/open-cu/neoai-2025/tree/main/5_Broken_BERT) - NLP - repair a corrupted BERT model’s embeddings
+- [Cluster Pictures](https://github.com/open-cu/neoai-2025/tree/main/2_Cluster_Pictures) - CV - unsupervised clustering of image patches
+- [Cuties Segmentation](https://github.com/open-cu/neoai-2025/tree/main/8_Cuties_Segmentation) - CV - semantic segmentation of cartoon characters
+- [Hogspell Challenge](https://github.com/lenjjiv/steering-hogs) - Generative (Image) - steer a diffusion model to generate hog images
+- [Tricy Table](https://www.kaggle.com/competitions/neoai-2025) - ML - tabular feature engineering challenge
+- [Underfitting CV](https://www.kaggle.com/competitions/neoai-2025) - CV - improve underfitting vision models
+- [Intent Detection & Slot Filling](https://www.kaggle.com/competitions/neoai-2025) - NLP - multilingual intent classification and slot filling
+
+*Overview:* [NEOAI 2025 on Kaggle](https://www.kaggle.com/competitions/neoai-2025/overview)
 
 ## Benin – National AI Olympiad Selection 2025
 - [Kaggle competition](https://www.kaggle.com/competitions/benin-national-ai-olympiad-selection) – ML (binary classification) – build a classifier and submit predictions.
@@ -54,13 +73,6 @@ We're going to search for more tasks from national selections and double-check e
 ## Malaysia – IOAI Training and Selection Programme 2025
 - [Lab repository](https://github.com/jaredliw/ioai-tsp-2025) – ML/CV/Multimodal – ResNet fine-tuning, FCN segmentation, and multimodality labs for Malaysia's team.
 
-## Northern Eurasia – NEOAI 2025
-- [Evading AI Generated Text Detection](https://github.com/open-cu/neoai-2025/tree/main/3_Evading_AI_Generated_Text_Detection) – NLP – craft text that bypasses detectors.
-- [Broken BERT](https://github.com/open-cu/neoai-2025/tree/main/5_Broken_BERT) – NLP – repair a corrupted BERT model.
-- [Cuties Segmentation](https://github.com/open-cu/neoai-2025/tree/main/8_Cuties_Segmentation) – CV – segment cartoon characters.
-- [Hogspell Challenge](https://github.com/lenjjiv/steering-hogs) – Generative – steer diffusion models to conjure hogs.
-- TODO: add remaining four competitions once resources are available.
-
 ## Poland – Polish AI Olympiad
 ### 1st Edition – 2024
 - **Stage I (Online Apr 22–May 27):** [Tasks](https://github.com/OlimpiadaAI/I-OlimpiadaAI) – CV/ML/NLP – adversarial attacks, imbalanced classification, parsing, quantization, tracking, pruning, reading-comprehension riddles.
@@ -84,7 +96,7 @@ We're going to search for more tasks from national selections and double-check e
 - [Solution write-ups](https://github.com/stefanasandei/roai-solved/blob/main/00-guide/rezolvari.md) – Detailed analyses of ROAI problems.
 
 ## Serbia – National Selection for IOAI 2025
-- National finals (dates TBA) – scientific questions followed by team practical projects; top 4 advance.
+- National finals – scientific questions followed by team practical projects; top 4 advance.
 
 ## Singapore – NOAI Singapore 2025
 - NLP – detect implicit toxicity in social media comments (binary classification). Baseline notebook provided in NOAI Singapore materials.
@@ -94,5 +106,5 @@ We're going to search for more tasks from national selections and double-check e
 
 ## United States – USA‑North America AI Olympiad 2025
 - **Round 1 (Mar 24, 2025, Online):** ML & data analysis – spectral decomposition, neural-network fundamentals, Titanic dataset tasks. [Overview](https://ioai-official.org/the-usa-north-america-ai-olympiad-is-organized-by-the-usa-ai-olympiad-usaaio/)
-- **Round 2 (Apr 27, 2025, MIT in-person):** Advanced ML challenges and model fine‑tuning tasks with workshops and panels. [Summary](https://ioai-official.org/the-usa-north-america-ai-olympiad-is-organized-by-the-usa-ai-olympiad-usaaio/)
+- **Round 2 (Apr 27, 2025, MIT in-person):** Advanced ML challenges and model fine‑tuning tasks with workshops and panels. [Overview](https://ioai-official.org/the-usa-north-america-ai-olympiad-is-organized-by-the-usa-ai-olympiad-usaaio/)
 Contributions welcome!
