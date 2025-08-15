@@ -5,18 +5,25 @@ We're going to search for more tasks from national selections and fix the links,
 
 ## IOAI 2024 – 1st Edition
 ### Scientific Round – At-Home Stage (July 2024)
-- [Problem statements](https://ioai-official.org/wp-content/uploads/2025/06/At-home-problems.zip) – NLP – fine-tune a language model on provided text. [Solutions](https://ioai-official.org/wp-content/uploads/2025/06/At-home-solutions.zip)
-- [Problem statements](https://ioai-official.org/wp-content/uploads/2025/06/At-home-problems.zip) – ML – train a predictive model on structured data. [Solutions](https://ioai-official.org/wp-content/uploads/2025/06/At-home-solutions.zip)
-- [Problem statements](https://ioai-official.org/wp-content/uploads/2025/06/At-home-problems.zip) – CV – implement image classification or detection. [Solutions](https://ioai-official.org/wp-content/uploads/2025/06/At-home-solutions.zip)
+- ML – Generate best features for a fixed ML model on structured data, where each sample is a matrix.
+- NLP – Fine-tune a language model on provided ciphered text of an unknown language.
+- CV – Make SDXL-mini generate a zebra instead of a giraffe and vice versa by changing neural network weights, but without changing prompts.
+
+[Problem statements in zip archive](https://ioai-official.org/wp-content/uploads/2025/06/At-home-problems.zip)
+
+[Solutions in zip archive](https://ioai-official.org/wp-content/uploads/2025/06/At-home-solutions.zip)
 
 ### Scientific Round – On-Site Stage (Aug 2024)
-- [Problem statements](https://ioai-official.org/wp-content/uploads/2025/06/On-site-problems.zip) – NLP – solve a language-processing challenge. [Solutions](https://ioai-official.org/wp-content/uploads/2025/06/On-site-solutions.zip)
-- [Problem statements](https://ioai-official.org/wp-content/uploads/2025/06/On-site-problems.zip) – ML – tackle a supervised-learning task under time pressure. [Solutions](https://ioai-official.org/wp-content/uploads/2025/06/On-site-solutions.zip)
-- [Problem statements](https://ioai-official.org/wp-content/uploads/2025/06/On-site-problems.zip) – CV – perform an image analysis task. [Solutions](https://ioai-official.org/wp-content/uploads/2025/06/On-site-solutions.zip)
+- ML – Generate best features for a fixed ML model on structured data, where each samples is a matrix. Compared to at-home task, the data, the model, and the problem (classification vs regression) changed.
+- NLP – Update the classifier similar to the one you trained in the at-home task to tackle 2 more classes.
+- CV – Make SDXL-mini add a hydrant to the image when it's prompted to generate an image with the cow (and still keep the cow as well).
+
+[Problem statements](https://ioai-official.org/wp-content/uploads/2025/06/On-site-problems.zip)
+
+[Solutions](https://ioai-official.org/wp-content/uploads/2025/06/On-site-solutions.zip)
 
 ### Practical Round – On-Site (Aug 2024)
-- [Assignment](https://ioai-official.org/wp-content/uploads/2025/06/Practical-round-assignment.zip) – Generative AI (Image) – create an album cover for the remix of “Love.” [Best solution](https://ioai-official.org/wp-content/uploads/2025/06/Practical-best-solution.zip)
-- [Assignment](https://ioai-official.org/wp-content/uploads/2025/06/Practical-round-assignment.zip) – Generative AI (Video) – produce a short video segment for the remix. [Best solution](https://ioai-official.org/wp-content/uploads/2025/06/Practical-best-solution.zip)
+- [Generative AI (Image and Video)](https://ioai-official.org/wp-content/uploads/2025/06/Practical-round-assignment.zip) – create an album cover and produce a short video segment for the song remix. [Best solution](https://ioai-official.org/wp-content/uploads/2025/06/Practical-best-solution.zip)
 
 ## APOAI (Asia-Pacific Olympiad in AI)
 
