@@ -56,6 +56,11 @@ We're going to search for more tasks from national selections and fix the links,
 ### Phase 2 – National Finals (Jun 2, 2025)
 - On‑site contest with four high‑difficulty AI problems across ML, CV, NLP, and ethics.
 
+## Georgia - Selection 2025
+- [Classic ML task](https://www.bohrium.com/competitions/3072370612?tab=introduce) - problem where students should align 3 binary classification models to do predictions on 3 class classification
+- [NLP task](https://www.bohrium.com/competitions/7927749324?tab=introduce) - Students have positive (duplicate) sentence pairs, negative sentences (not pairs), and a small BERT model, and their task is to train a deduplication classification model.
+- [CV task](https://www.bohrium.com/competitions/6576265377?tab=introduce) - Students have a list of classes, images without labels, and captions generated from an image2text model on these images, and their task is to train a classifier on these images for the given list of classes
+
 ## India – INAIO Selection 2025
 - **Stage 1 (Jan 25, 2025):** Online test on AI fundamentals; tools like ChatGPT/Google permitted.
 - **Stage 2 (Mar 2, 2025):** Proctored exam with AI theory questions and Python ML coding tasks.
