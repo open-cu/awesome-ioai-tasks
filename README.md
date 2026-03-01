@@ -1,5 +1,5 @@
 # awesome-ioai-tasks
-A collection for IOAI tasks from different years and national team selections.
+A collection for IOAI tasks from different years and national team selections. The goal of this page is to collect tasks (ideally in the format you can try to solve, like Kaggle competitions), solutions and learning materials.
 
 We're going to search for more tasks from national selections and fix the links, but we're happy if you submit a PR with some links to your tasks or solutions, so we can add them. Thank you!
 
