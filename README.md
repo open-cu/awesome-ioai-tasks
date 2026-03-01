@@ -163,6 +163,30 @@ Individual and Team Challenge with tasks in machine learning, natural language p
 - **National Finals:** Theoretical and programming challenges.
 - [Official Website](https://saaio.org/2026-olympiad)
 
+## Australia – NOAI 2025/2026
+- **Round 1 (Mar 2025/2026):** Online multiple-choice on AI fundamentals (45 min, no coding).
+- **Round 2 (Apr 2025/2026):** Advanced theory (80%) and practice (20%) using GPU platforms.
+- **Finals (APOAI Stage):** Top 8 students selected for IOAI team.
+- [Official Website](https://ioai.org.au/)
+
+## UK – UKOAI 2025/2026
+- **Online Test (Mar 2026):** Three long-form questions on programming and deep learning.
+- **Interviews & Training Camp:** Selected students undergo advanced training.
+- **IOAI Representation:** Top 4 students represent UK at IOAI.
+- [Official Website](https://ukoai.org/)
+
+## Canada – CAIO 2025/2026
+- **National Qualifier (Nov 23, 2025):**
+  - Round 1: 25 multiple-choice + 10 fill-in-the-blank on AI fundamentals, logic, and Python.
+  - Round 2: Practical coding in Google Colab – data preprocessing and ML model building.
+- **National Training Camp (Jan 2026):** Multi-day camp with lectures and selection competition; top 4 form national team for IAIO.
+- [Official Website](https://www.iaiocanada.com/) | [Preparation Materials](https://www.iaiocanada.com/prepare/)
+
+## Spain – IOAI Spain 2026
+- **Basic Cycle & Rounds 1-2 (Oct 2025 – Feb 2026):** Progressive online phases; no prior AI experience required; ChatGPT permitted.
+- Selection focuses on AI concepts, logic, reasoning, and practical problem-solving.
+- [Official Website](https://ioai-spain.org/)
+
 ## Bangladesh – IAIO 2026 Qualifier
 - [Competition Info](https://bdaio.org/event/international-artificial-intelligence-olympiad-iaio-2026-bangladesh-qualifying-competition/) – National qualifier competition for IAIO.
 
