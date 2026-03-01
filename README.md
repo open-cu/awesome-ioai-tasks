@@ -3,6 +3,35 @@ A collection for IOAI tasks from different years and national team selections.
 
 We're going to search for more tasks from national selections and fix the links, but we're happy if you submit a PR with some links to your tasks or solutions, so we can add them. Thank you!
 
+## IOAI 2025 – 2nd Edition
+
+**Location:** Beijing, China  
+**Dates:** August 2–9, 2025  
+**Host:** Beijing National Day School, Haidian District
+
+Over 300 high school students from 80+ teams representing 63 countries participated in this edition.
+
+### Individual Challenge (Aug 5-6, 2025)
+Two-day, six-hour-per-day on-site competition with tasks in machine learning, natural language processing, computer vision, and related AI topics.
+
+[GitHub Repository with Problems & Solutions](https://github.com/IOAI-official/IOAI-2025)
+
+### Team Challenge – "Future Factory" (Aug 4-6, 2025)
+Teams worked on algorithmic and program design in a simulated factory environment. Top 10 teams deployed solutions to physical Galbot robots.
+
+### GAITE Contest
+Simplified contest with hints available, designed for wider participation.
+
+[Official IOAI 2025 Schedule](https://ioai-official.org/china-2025/2025-china-schedule/)
+
+## IOAI 2026 – 3rd Edition
+
+**Location:** Abu Dhabi, United Arab Emirates  
+**Dates:** August 2–8, 2026  
+**Host:** Mohamed bin Zayed University of Artificial Intelligence (MBZUAI)
+
+[Official Announcement](https://ioai-official.org/united-arab-emirates-2026/)
+
 ## IOAI 2024 – 1st Edition
 ### Scientific Round – At-Home Stage (July 2024)
 - ML – Generate best features for a fixed ML model on structured data, where each sample is a matrix.
@@ -27,7 +56,15 @@ We're going to search for more tasks from national selections and fix the links,
 
 ## APOAI (Asia-Pacific Olympiad in AI)
 
+### APOAI 2025 – 1st Edition
 * [APOAI 2025 Competition](https://www.bohrium.com/competitions/7647426696?tab=introduce) - Info - overview of tasks and introduction
+
+### APOAI 2026 – 2nd Edition
+* **Dates:** June 13–20, 2026
+* **Format:** Hybrid (online and on-site participation options)
+* Serves as a regional qualifier and preparation platform for IOAI 2026
+
+[Regional Olympiads Information](https://ioai-official.org/regional-olympiads-in-artificial-intelligence-2026/)
 
 ## NEOAI (Northern Eurasia Olympiad in AI)
 
@@ -117,4 +154,118 @@ We're going to search for more tasks from national selections and fix the links,
 ## United States – USA‑North America AI Olympiad 2025
 - **Round 1 (Mar 24, 2025, Online):** ML & data analysis – spectral decomposition, neural-network fundamentals, Titanic dataset tasks. [Overview](https://ioai-official.org/the-usa-north-america-ai-olympiad-is-organized-by-the-usa-ai-olympiad-usaaio/)
 - **Round 2 (Apr 27, 2025, MIT in-person):** Advanced ML challenges and model fine‑tuning tasks with workshops and panels. [Overview](https://ioai-official.org/the-usa-north-america-ai-olympiad-is-organized-by-the-usa-ai-olympiad-usaaio/)
+
+## Australia – IOAI Australia NOAI 2026
+- **Round 1 (Mar 29, 2026):** Online multiple-choice assessment testing AI thinking and fundamentals (45 minutes).
+- **Round 2 (Late Apr 2026):** Advanced theoretical reasoning, held online.
+- **Final Round (May-Jun 2026 - APOAI Stage):** Selects Australian national team (top 8 students) for IOAI.
+- [Official Website](https://ioai.org.au/)
+
+## Brazil – IOAI Participation
+- Brazil participates in IOAI through national selection process.
+- **2025 Results:** Two bronze medals at IOAI 2025 in Beijing.
+
+## Canada – AI Olympiad Selection
+### IOAI Canada
+- Written application followed by national training program.
+- Canada AI National Challenge results determine IOAI Canada national team.
+- [Official Website](https://www.ioai-canada.org/)
+
+### IAIO Canada / Canada AI Olympiad (CAIO)
+- **National Qualifier (Nov 2025):** Open to students from multiple countries.
+- **National Training Camp (Jan 2026):** Top four contestants named to national team.
+- Eligibility: Canadian citizenship or full-time study in Canada and high school enrollment.
+- [Official Website](https://www.iaiocanada.com/)
+
+## France – OFIA (Olympiades Françaises d'Intelligence Artificielle)
+- **Organized by:** France-IOI
+- **Eligibility:** French high school and college students under 20
+- **Process:**
+  - First online qualification round (Kaggle-based challenge, Feb/Mar)
+  - Second selection round (Mar) for top scorers
+  - 6-day national training camp and final in Paris (late Apr)
+  - Top 4 selected for IOAI team
+- **2025 Results:** 300+ participants, 25 finalists, 4 laureates, two medals at IOAI 2025
+- [Official Website](https://olympiades.ai/)
+
+## Singapore – NOAI 2026
+- **Organized by:** AI Singapore with Nanyang Technological University (NTU)
+- **Eligibility:** Students under 20 enrolled in Singapore MOE schools
+- **Timeline:**
+  - Interest to participate: Sep 15 – Nov 28, 2025
+  - Preliminaries: Early 2026
+  - Finals: Mar 2026 at NTU
+- Top students undergo further selection and training for Singapore's IOAI team
+- [Official Website](https://aisingapore.org/talent/national-olympiad-in-artificial-intelligence/)
+
+## South Korea – IOAI Selection
+- Selection through Korean National Olympiad in Informatics and AI-related competitions
+- Managed by Korea Foundation for the Advancement of Science and Creativity
+- **2025 Results:** One silver and two bronze medals at IOAI 2025
+
+## Spain – IOAI Spain 2026
+- **Coordinator:** Harbour.Space (officially accredited)
+- **Eligibility:** Spanish citizens, permanent residents, or full-time secondary students in Spain; age 20 or younger on July 1, 2026
+- **Process:**
+  - Three progressive online phases: Basic Cycle, Round 1 (Oct 27 – Feb 21), Round 2
+  - No prior AI/programming experience required
+  - Tools like ChatGPT permitted during tests
+- [Official Website](https://ioai-spain.org/)
+
+## Ukraine – National AI Olympiad 2026
+- **Coordinator:** Education Holding A+ (official national body)
+- **Eligibility:** High school and college students aged 14–20 (as of July 1, 2026)
+- **Process:**
+  - Rounds 1–3: Online
+  - Final: In-person or hybrid
+  - Free and open; no prior AI experience required
+- Top scorers represent Ukraine at IOAI 2026 in Abu Dhabi
+- [Official Website](https://ioai-ukraine.org/en)
+
+## United Kingdom – UKOAI 2026
+- **UK Olympiad in Artificial Intelligence** is the national contest for IOAI team selection
+- **Timeline:**
+  - Jan–Feb 2026: Registration and preparation
+  - Mar 7, 2026: Free online UKOAI national test (open to secondary students)
+  - Mid-Mar: Interviews for high scorers
+  - Apr/May: Multi-day training camp and final team selection
+  - Team: Four participants selected for IOAI
+- [Official Website](https://ukoai.org/)
+
+### IAIO UK
+- Separate UK selection for International AI Olympiad (IAIO)
+- National qualifiers and training camp select team for IAIO finals in Ljubljana, Slovenia (Feb 23–27, 2026)
+- [Official Website](https://www.iaiouk.com/)
+
+## Vietnam – VOAI (Vietnam Olympiad of AI for Students)
+- **First edition held in 2025** as official selection for IOAI team
+- Preliminary round: Multiple-choice AI knowledge test based on IOAI syllabus
+- Held at multiple locations under Ministry of Education and Training oversight
+- **2025 Results:** All participants won awards (3 gold, 1 silver, 3 bronze, 1 consolation); Vietnam placed in top 4 teams
+
+## Regional Olympiads 2026
+
+### Africa – African Olympiad in Artificial Intelligence (AOAI)
+- **Finals:** April 9–12, 2026
+- **Location:** Sousse, Tunisia
+- **Coordinator:** Grace Muthoni Kaimburi
+- Platform for pre-university students from Africa to compete in AI
+- [Regional Olympiads Info](https://ioai-official.org/regional-olympiads-in-artificial-intelligence-2026/)
+
+### North America – North American Olympiad in AI (NAOAI/USA-NA-AIO)
+- **Finals:** April 4–5, 2026
+- **Locations:** Harvard and MIT, USA
+- **Coordinator:** Steven Chen
+- Open to all U.S. and Canadian K-12 students
+- [USA AI Olympiad Website](https://www.usaaio.org/)
+
+### Northern Eurasia – Northern Eurasia Olympiad in AI (NEOAI)
+- **Dates:** May 2–8, 2026
+- Competition for high school students from Northern Eurasia and partner countries
+- Tasks in ML, CV, NLP, and Generative AI
+
+### Central Europe – Central European OAI
+- **Dates:** July 14–19, 2026
+- **Location:** Cluj-Napoca, Romania
+
 Contributions welcome!
