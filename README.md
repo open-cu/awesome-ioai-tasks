@@ -78,8 +78,19 @@ Individual and Team Challenge with tasks in machine learning, natural language p
 - **Stage 1 (Jan 25, 2025):** Online test on AI fundamentals; tools like ChatGPT/Google permitted.
 - **Stage 2 (Mar 2, 2025):** Proctored exam with AI theory questions and Python ML coding tasks.
 
+## India – INAIO 2026
+- **Stage 1 (Jan 18, 2026):** National online exam on ML foundations, classical AI, programming, and real-world problem-solving.
+- **Stage 2:** Advanced AI/ML tasks with hands-on modeling and data analysis.
+- [Official Website](https://inaio.in/) | [Registration](https://manageexam.com/INAIO2026/)
+
 ## Japan – JOAI 2025
 - [Kaggle competition](https://www.kaggle.com/competitions/joai-2025-competition/overview) – Multimodal – classify gases using sensor tables, images, and text.
+- [Solution Repository 1](https://github.com/ryo-key/joai-2025-solution) – Solutions with ResNet, DeBERTa, LightGBM, and ensemble techniques.
+- [Solution Repository 2](https://github.com/rayramy04/joai2025-solutions) – Gold medal winner's detailed write-up and code.
+- [Official Solution Summary](https://ioai-japan.org/joai2025-solution/) – Synthesis of top submissions and methodologies.
+
+## Japan – JOAI 2026
+- [Kaggle competition](https://www.kaggle.com/competitions/joai-competition-2026) – Time series regression – predict lever position from mouse brain activity (calcium signals across 88 channels).
 
 ## Kazakhstan – Team Selection Test
 - [Day 1: Image Restoration](https://github.com/batyrq/IOAI-TST-solution-day1) – CV – restore images after 2×2 channel filters.
@@ -153,8 +164,7 @@ Individual and Team Challenge with tasks in machine learning, natural language p
 - National Olympiad in AI for Philippines; winners advance to Asia-Pacific and IOAI events.
 - [Official Website](https://ioaiph.org/)
 
-## Russia – IAIO 2026 Selection
-- [Kaggle Competition](https://www.kaggle.com/competitions/iaio-2026-selections-for-russia) – National qualifier for International Artificial Intelligence Olympiad.
+
 
 ## South Africa – SAAIO 2026
 - Open to high school students across Africa.
@@ -179,7 +189,7 @@ Individual and Team Challenge with tasks in machine learning, natural language p
 - **National Qualifier (Nov 23, 2025):**
   - Round 1: 25 multiple-choice + 10 fill-in-the-blank on AI fundamentals, logic, and Python.
   - Round 2: Practical coding in Google Colab – data preprocessing and ML model building.
-- **National Training Camp (Jan 2026):** Multi-day camp with lectures and selection competition; top 4 form national team for IAIO.
+- **National Training Camp (Jan 2026):** Multi-day camp with lectures and selection competition; top 4 form national team for IOAI.
 - [Official Website](https://www.iaiocanada.com/) | [Preparation Materials](https://www.iaiocanada.com/prepare/)
 
 ## Spain – IOAI Spain 2026
@@ -187,13 +197,7 @@ Individual and Team Challenge with tasks in machine learning, natural language p
 - Selection focuses on AI concepts, logic, reasoning, and practical problem-solving.
 - [Official Website](https://ioai-spain.org/)
 
-## Bangladesh – IAIO 2026 Qualifier
-- [Competition Info](https://bdaio.org/event/international-artificial-intelligence-olympiad-iaio-2026-bangladesh-qualifying-competition/) – National qualifier competition for IAIO.
 
-## IAIO – International Artificial Intelligence Olympiad
-- Separate international olympiad with national qualifiers worldwide.
-- Multiple countries use Kaggle and other platforms for selection rounds.
-- [Official Website](https://iaio-official.org/) | [Pre-IAIO 2026 on Nitro AI Judge](https://judge.nitro-ai.org/competitions/nitro/pre-iaio-2026/2)
 
 ## Learning Resources & Solution Repositories
 - [IOAI Writeup Repository](https://ioai-writeup.github.io/) – Unofficial solutions and writeups for IOAI 2025 tasks.
