@@ -239,7 +239,7 @@ Simplified contest with hints available, designed for wider participation.
 
 ## Vietnam – VOAI (Vietnam Olympiad of AI for Students)
 - **First edition held in 2025** as official selection for IOAI team
-- Preliminary round: Multiple-choice AI knowledge test based on IOAI syllabus
+- Preliminary round: multiple-choice AI knowledge test based on IOAI syllabus
 - Held at multiple locations under Ministry of Education and Training oversight
 - **2025 Results:** All participants won awards (3 gold, 1 silver, 3 bronze, 1 consolation); Vietnam placed in top 4 teams
 
