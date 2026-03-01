@@ -108,13 +108,21 @@ Individual and Team Challenge with tasks in machine learning, natural language p
   - [Full Stage II repo](https://github.com/OlimpiadaAI/II-OlimpiadaAI/tree/main/2_etap)
 
 ### 3rd Edition – 2026
-- [Official Website](https://www.oai.edu.pl/iii-oai) | [GitHub Repository](https://github.com/OlimpiadaAI/III-OlimpiadaAI)
+- **Stage 1 (Online Dec 1, 2025 – Jan 25, 2026):**
+  - [Convolutional Filters](https://github.com/OlimpiadaAI/III-OlimpiadaAI) – CV – introduction to computer vision techniques.
+  - [Multi-label Classification](https://github.com/OlimpiadaAI/III-OlimpiadaAI) – CV – assign multiple labels to images.
+  - [Whisper or Shout](https://github.com/OlimpiadaAI/III-OlimpiadaAI) – Audio – classify speech loudness.
+  - [Semantic Changes](https://github.com/OlimpiadaAI/III-OlimpiadaAI) – NLP – detect word meaning shifts in embeddings.
+  - [Multispectral Segmentation](https://github.com/OlimpiadaAI/III-OlimpiadaAI) – CV – segment satellite imagery.
+  - [Full Stage I repo](https://github.com/OlimpiadaAI/III-OlimpiadaAI)
+- [Official Website](https://www.oai.edu.pl/iii-oai) | [English translations](https://github.com/nickkipshidze/Polish-III-AI-Olympiad)
 
 ## Romania – ONIA
 - **County Round (OJIA) – Apr 29, 2025:** [Example problems](https://github.com/Olimpiada-AI/Propunere-probleme-si-solutii) – Tabular ML – train/test prediction tasks on Nitro AI Judge.
 - **National Round (May 16–19, 2025, Bucharest):** CV & NLP – Byzantine musical-notation classification; human vs AI text detection.
 - **Training & Selection Camp (Jun 17–24, 2025, Bucharest):** [Article](https://ioai-official.org/romanias-national-ai-olympiad-roai-2025-kicks-off-with-government-backed-edition/) – ML/CV/NLP – three 5‑hour exams to choose the IOAI team.
 - [Solution write-ups](https://github.com/stefanasandei/roai-solved/blob/main/00-guide/rezolvari.md) – Detailed analyses of ROAI problems.
+- **ONIA 2026:** [Official Website](https://olimpiada-ai.ro/en) | [Practice Platform](https://judge.nitro-ai.org/competitions)
 
 ## Serbia – National Selection for IOAI 2025
 - [Selection Overview](https://ioai-official.org/serbia-finals-4-team-members-selected-for-serbian-national-team-for-ioai-2025/) – National finals – scientific questions followed by team practical projects; top 4 advance.
@@ -125,5 +133,48 @@ Individual and Team Challenge with tasks in machine learning, natural language p
 ## United States – USA‑North America AI Olympiad 2025
 - **Round 1 (Mar 24, 2025, Online):** ML & data analysis – spectral decomposition, neural-network fundamentals, Titanic dataset tasks. [Overview](https://ioai-official.org/the-usa-north-america-ai-olympiad-is-organized-by-the-usa-ai-olympiad-usaaio/)
 - **Round 2 (Apr 27, 2025, MIT in-person):** Advanced ML challenges and model fine‑tuning tasks with workshops and panels. [Overview](https://ioai-official.org/the-usa-north-america-ai-olympiad-is-organized-by-the-usa-ai-olympiad-usaaio/)
+
+## Egypt – AIO 2025
+- National AI Olympiad for school and university students in machine learning, computer vision, embedded systems, and cybersecurity.
+- [Competition Info](https://arabaiolympiad.com/wp-content/uploads/2024/06/AIO-2025-1.pdf)
+
+## France – OFIA 2026
+- **Stage 1 (Feb 1–28, 2026, Kaggle):** Multimodal ML challenge combining tabular data and images ("Où est Spy-C?").
+- [Kaggle Competition](https://www.kaggle.com/competitions/ofia-2026) | [Kaggle Dataset](https://www.kaggle.com/datasets/timmor/ofia2026)
+- **Stage 2 (Mar 21, 2026):** Advanced online selection round for top 100 performers.
+- **Finals (Apr 21–26, 2026, Paris):** Intensive training camp and final exam; top 4 represent France at IOAI.
+- [Official Website](https://olympiades.ai/)
+
+## Indonesia – IOAI Selection
+- National selection through training camps and contests spanning ML, CV, and NLP.
+- [Official Website](https://ioai.toki.id/)
+
+## Philippines – IOAIPH & NOAIPH
+- National Olympiad in AI for Philippines; winners advance to Asia-Pacific and IOAI events.
+- [Official Website](https://ioaiph.org/)
+
+## Russia – IAIO 2026 Selection
+- [Kaggle Competition](https://www.kaggle.com/competitions/iaio-2026-selections-for-russia) – National qualifier for International Artificial Intelligence Olympiad.
+
+## South Africa – SAAIO 2026
+- Open to high school students across Africa.
+- **Rounds 1 & 2:** Multiple-choice on AI concepts.
+- **Round 3:** MCQs and practical data analysis.
+- **National Finals:** Theoretical and programming challenges.
+- [Official Website](https://saaio.org/2026-olympiad)
+
+## Bangladesh – IAIO 2026 Qualifier
+- [Competition Info](https://bdaio.org/event/international-artificial-intelligence-olympiad-iaio-2026-bangladesh-qualifying-competition/) – National qualifier competition for IAIO.
+
+## IAIO – International Artificial Intelligence Olympiad
+- Separate international olympiad with national qualifiers worldwide.
+- Multiple countries use Kaggle and other platforms for selection rounds.
+- [Official Website](https://iaio-official.org/) | [Pre-IAIO 2026 on Nitro AI Judge](https://judge.nitro-ai.org/competitions/nitro/pre-iaio-2026/2)
+
+## Learning Resources & Solution Repositories
+- [IOAI Writeup Repository](https://ioai-writeup.github.io/) – Unofficial solutions and writeups for IOAI 2025 tasks.
+- [roai-solved](https://github.com/stefanasandei/roai-solved) – Solutions for IOAI-type contests (NEOAI, Romanian, Polish Olympiads).
+- [OAI-Solves](https://github.com/franciszekparma/OAI-Solves) – Solutions to Polish AI Olympiad tasks.
+- [TomekUram's solutions](https://github.com/TomekUram/ai-olympiad-solutions) – AI Olympiad solution repository.
 
 Contributions welcome!
