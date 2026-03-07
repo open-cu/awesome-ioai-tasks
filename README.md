@@ -53,7 +53,7 @@ Individual and Team Challenge with tasks in machine learning, natural language p
 
 - [Contest list](https://ioai-community-contest.netlify.app/contests) – Community-run monthly IOAI-style practice contests, mostly on Kaggle, covering ML, CV, NLP, and audio.
 
-- [Official solutions repository](https://github.com/stefanasandei/roai-solved/tree/main/international-contests/aicc)
+- [Official solutions repository](https://github.com/AI-Community-Contest/solutions/tree/main)
 
 ## Benin – National AI Olympiad Selection 2025
 - [Kaggle competition](https://www.kaggle.com/competitions/benin-national-ai-olympiad-selection) – ML (binary classification) – build a classifier and submit predictions.
