@@ -90,7 +90,7 @@ Individual and Team Challenge with tasks in machine learning, natural language p
 - [Official Solution Summary](https://ioai-japan.org/joai2025-solution/) – Synthesis of top submissions and methodologies.
 
 ## Japan – JOAI 2026
-- [Kaggle competition](https://www.kaggle.com/competitions/joai-competition-2026) – Time series regression – predict lever position from mouse brain activity (calcium signals across 88 channels).
+- [Kaggle competition](https://www.kaggle.com/competitions/joai-competition-2026) ([second link](https://www.kaggle.com/competitions/playground-joai-competition-2026)) – Time series regression – predict lever position from mouse brain activity (calcium signals across 88 channels).
 
 ## Kazakhstan – Team Selection Test
 - [Day 1: Image Restoration](https://github.com/batyrq/IOAI-TST-solution-day1) – CV – restore images after 2×2 channel filters.
