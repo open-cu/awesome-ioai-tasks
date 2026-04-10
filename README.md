@@ -197,6 +197,14 @@ Individual and Team Challenge with tasks in machine learning, natural language p
 - Selection focuses on AI concepts, logic, reasoning, and practical problem-solving.
 - [Official Website](https://ioai-spain.org/)
 
+## Hungary – HAIO (Magyar MI Diákolimpia)
+- Hungary's official AI olympiad for high school students (grades 9–13), covering ML, CV, NLP, and RL. Organized by the [ELTE Faculty of Informatics](https://www.inf.elte.hu/); top performers represent Hungary at IOAI, IAIO, and CEOAI.
+- **Rounds:** Summer Online (Kaggle qualifier, since 2025), Summer National finals on-site at ELTE (theoretical + practical, since 2024), Summer Camp, Winter National, and Winter Camp (from 2026), with training camps doubling as final selection for the international teams.
+- **2024 – Summer National:** 10 tasks (4 CV, 4 NLP, 2 theoretical). [Tasks & solutions](https://github.com/Hungarian-AI-Olympiad/HAIO-Hungarian-AI-Olympiad/tree/main/2024)
+- **2025 – Summer Online + Summer National:** 6 tasks (1 ML online qualifier + 1 theoretical + 4 practical). [Tasks & solutions](https://github.com/Hungarian-AI-Olympiad/HAIO-Hungarian-AI-Olympiad/tree/main/2025)
+- **2026:** Expanded program with Summer Online, Summer National, Summer Camp, Winter National, and Winter Camp. [Tasks](https://github.com/Hungarian-AI-Olympiad/HAIO-Hungarian-AI-Olympiad/tree/main/2026)
+- [Full Repository](https://github.com/Hungarian-AI-Olympiad/HAIO-Hungarian-AI-Olympiad) | [Official Website](https://tehetseg.inf.elte.hu/mi_olimpia/) | [Syllabus (MÓLÓ)](https://tehetseg.inf.elte.hu/mi_olimpia/molo) | [Hall of Fame](https://tehetseg.inf.elte.hu/mi_olimpia/hall-of-fame)
+
 
 
 ## Learning Resources & Solution Repositories
