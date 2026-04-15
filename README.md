@@ -198,6 +198,10 @@ Individual and Team Challenge with tasks in machine learning, natural language p
 - **National Training Camp (Jan 2026):** Multi-day camp with lectures and selection competition; top 4 form national team for IOAI.
 - [Official Website](https://www.iaiocanada.com/) | [Preparation Materials](https://www.iaiocanada.com/prepare/)
 
+## Cyprus – IOAI Team Selection 2026
+- [Cyprus AI Camp 2026 Tasks (Kaggle)](https://www.kaggle.com/competitions/cyprus-ai-camp-2026-tasks) – National selection tasks for Cyprus's IOAI team (ML, CV, NLP, multimodal, and math-focused challenges).
+- [Competition abstract / schedule](https://www.kaggle.com/competitions/cyprus-ai-camp-2026-tasks/overview/abstract)
+
 ## Spain – IOAI Spain 2026
 - **Basic Cycle & Rounds 1-2 (Oct 2025 – Feb 2026):** Progressive online phases; no prior AI experience required; ChatGPT permitted.
 - Selection focuses on AI concepts, logic, reasoning, and practical problem-solving.
