@@ -203,6 +203,10 @@ Individual and Team Challenge with tasks in machine learning, natural language p
 - Selection focuses on AI concepts, logic, reasoning, and practical problem-solving.
 - [Official Website](https://ioai-spain.org/)
 
+## Sweden – SAIO (Svenska AI-olympiaden)
+- [Problem archive](https://saio.kattis.com/) – Swedish AI olympiad contests from 2025 onwards. The 2025 qualifier was the first edition and can be skipped; the tasks weren't very good.
+- [Official Website](https://ai-olympiaden.se/)
+
 ## Hungary – HAIO (Magyar MI Diákolimpia)
 - Hungary's official AI olympiad for high school students (grades 9–13), covering ML, CV, NLP, and RL. Organized by the [ELTE Faculty of Informatics](https://www.inf.elte.hu/); top performers represent Hungary at IOAI, IAIO, and CEOAI.
 - **Rounds:** Summer Online (Kaggle qualifier, since 2025), Summer National finals on-site at ELTE (theoretical + practical, since 2024), Summer Camp, Winter National, and Winter Camp (from 2026), with training camps doubling as final selection for the international teams.
