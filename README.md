@@ -62,7 +62,6 @@ Individual and Team Challenge with tasks in machine learning, natural language p
 
 - [Competition catalog](https://www.kaggle.com/competitions/neoai-2026) – Six tasks across computer vision, NLP, and tabular ML.
 - [Day 1 Computer Vision](https://www.kaggle.com/competitions/neoai-2026-day-1-cv) – Image segmentation challenge.
-- [NEOAI Mania](https://www.kaggle.com/competitions/neoai-mania-2026) – Predict national-team selection probabilities from contestants' historical results.
 
 ## AICC (IOAI Community Contest)
 
