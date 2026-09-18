@@ -1,7 +1,7 @@
 # awesome-ioai-tasks
-A collection of IOAI tasks from different years and national team selections. The goal of this page is to link directly to tasks that remain available to solve (ideally as runnable competitions, such as on Kaggle), along with their solutions and learning materials.
+A collection of IOAI tasks from different years and national team selections. The goal of this page is to collect tasks that remain available to solve (ideally as runnable competitions, such as on Kaggle), along with useful task catalogs, solutions, and learning materials.
 
-We're going to search for more tasks from national selections and fix the links, but we're happy if you submit a PR with direct links to task statements, data, runnable competitions, or solutions. Thank you!
+We're going to search for more tasks from national selections and fix the links, but we're happy if you submit a PR with links to task statements, data, runnable competitions, useful task catalogs, or solutions. Thank you!
 
 ## IOAI 2025 – 2nd Edition
 Individual and Team Challenge with tasks in machine learning, natural language processing, and computer vision.
@@ -30,6 +30,10 @@ Individual and Team Challenge with tasks in machine learning, natural language p
 ### Practical Round – On-Site (Aug 2024)
 - [Generative AI (Image and Video)](https://ioai-official.org/wp-content/uploads/2025/06/Practical-Round-problems.zip) – create an album cover and produce a short video segment for the song remix. [Best solution](https://ioai-official.org/wp-content/uploads/2025/06/Practical-round-best-solutions.zip)
 
+## APOAI (Asia-Pacific Olympiad in AI)
+
+- [APOAI 2025 Competition](https://www.bohrium.com/competitions/7647426696?tab=introduce) – Competition page containing the available tasks.
+
 ## NEOAI (Northern Eurasia Olympiad in AI)
 
 ### NEOAI 2025 Competitions
@@ -43,8 +47,11 @@ Individual and Team Challenge with tasks in machine learning, natural language p
 - [Underfitting CV](https://www.kaggle.com/competitions/neoai-2025-underfitting-cv) - CV - improve underfitting vision models
 - [Intent Detection & Slot Filling](https://www.kaggle.com/competitions/neoai-2025-intent-detection-and-slot-filling) - NLP - multilingual intent classification and slot filling
 
+*Task catalog:* [NEOAI 2025 on Kaggle](https://www.kaggle.com/competitions/neoai-2025/overview)
+
 ## AICC (IOAI Community Contest)
 
+- [Contest list](https://ioai-community-contest.netlify.app/contests) – Community-run monthly IOAI-style practice contests with links to tasks, mostly on Kaggle.
 - [Official solutions repository](https://github.com/AI-Community-Contest/solutions/tree/main)
 
 ## Benin – National AI Olympiad Selection 2025
@@ -111,6 +118,7 @@ Individual and Team Challenge with tasks in machine learning, natural language p
 ## Romania – ONIA
 - **County Round (OJIA) – Apr 29, 2025:** [Example problems](https://github.com/Olimpiada-AI/Propunere-probleme-si-solutii) – Tabular ML – train/test prediction tasks on Nitro AI Judge.
 - [Solution write-ups](https://github.com/stefanasandei/roai-solved/blob/main/00-guide/rezolvari.md) – Detailed analyses of ROAI problems.
+- [Practice task platform](https://judge.nitro-ai.org/competitions) – Competition catalog with problems available to solve.
 
 ## France – OFIA 2026
 - [Kaggle Competition](https://www.kaggle.com/competitions/ofia-2026) – Multimodal ML – combine tabular data and images to solve "Où est Spy-C?" ([dataset](https://www.kaggle.com/datasets/timmor/ofia2026)).
