@@ -3,12 +3,20 @@ A collection for IOAI tasks from different years and national team selections. T
 
 We're going to search for more tasks from national selections and fix the links, but we're happy if you submit a PR with some links to your tasks or solutions, so we can add them. Thank you!
 
+## IOAI 2026 – 3rd Edition
+- [Official task repository](https://github.com/IOAI-official/IOAI-2026) – Three at-home notebook tasks and six on-site individual tasks, including statements, figures, translations, and GAITE hints.
+- [Team Challenge simulation platform](https://github.com/galbot-ioai/ioailab) – IsaacLab environment for the Pick, Nav, and Place robotics tasks.
+
 ## IOAI 2025 – 2nd Edition
 Individual and Team Challenge with tasks in machine learning, natural language processing, and computer vision.
 
 [GitHub Repository with Problems & Solutions](https://github.com/IOAI-official/IOAI-2025)
 
+[Team Challenge simulation platform](https://github.com/galbot-ioai/physics_sim_edu) – MuJoCo environment used for the robotics challenge.
+
 ## IOAI 2024 – 1st Edition
+- [Official task repository](https://github.com/IOAI-official/IOAI-2024) – On-site task materials for Help BOBAI, Lost in Hyperspace, and Madarian Cow.
+
 ### Scientific Round – At-Home Stage (July 2024)
 - ML – Generate best features for a fixed ML model on structured data, where each sample is a matrix.
 - NLP – Fine-tune a language model on provided ciphered text of an unknown language.
@@ -33,6 +41,7 @@ Individual and Team Challenge with tasks in machine learning, natural language p
 ## APOAI (Asia-Pacific Olympiad in AI)
 
 * [APOAI 2025 Competition](https://www.bohrium.com/competitions/7647426696?tab=introduce) - Info - overview of tasks and introduction
+* [APOAI 2026 Mock Competition](https://www.bohrium.com/competitions/62957547598?tab=introduce) – Practice tasks for the 2026 competition.
 
 ## NEOAI (Northern Eurasia Olympiad in AI)
 
@@ -49,6 +58,10 @@ Individual and Team Challenge with tasks in machine learning, natural language p
 
 *Overview:* [NEOAI 2025 on Kaggle](https://www.kaggle.com/competitions/neoai-2025/overview)
 
+### NEOAI 2026 Competitions
+
+- [Competition catalog](https://www.kaggle.com/competitions/neoai-2026) – Six tasks across computer vision, NLP, and tabular ML.
+
 ## AICC (IOAI Community Contest)
 
 - [Contest list](https://ioai-community-contest.netlify.app/contests) – Community-run monthly IOAI-style practice contests, mostly on Kaggle, covering ML, CV, NLP, and audio.
@@ -60,6 +73,12 @@ Individual and Team Challenge with tasks in machine learning, natural language p
 
 ## Bangladesh – BdAIO 2025
 - [Preliminary Round](https://github.com/mdajijulhakimquanta/BdAIO/blob/main/bdaio-2025-preliminary.pdf) – Algorithms – 11 AI-themed programming challenges on Toph.
+
+## Bulgaria – National Team Selection
+- [2025 tasks](https://github.com/yonitoo/awesome-BGOAI-tasks/tree/main/2025/BG_Team_Selection) – Problems from both days of Bulgaria's 2025 IOAI team selection.
+- [2026 tasks](https://github.com/yonitoo/awesome-BGOAI-tasks/tree/main/2026/BG_Team_Selection) – Problems from both days of Bulgaria's 2026 IOAI team selection.
+- [2026 NCAI tasks](https://github.com/yonitoo/awesome-BGOAI-tasks/tree/main/2026/NCAI) – Tasks from Bulgaria's 2026 National Competition in Artificial Intelligence.
+- [IOAI 2025 team preparation](https://github.com/yonitoo/IOAI_BG_TEAM_PREP) – Training notebooks, task statements, and solutions.
 
 ## China – NOAI 2024
 - [Basketball Shooting](https://github.com/jaredliw/ioai-tsp-2025/tree/main/noai-china-2024/basketball-shooting) – Tabular ML – predict basketball shooting percentages.
@@ -89,6 +108,10 @@ Individual and Team Challenge with tasks in machine learning, natural language p
 - **Stage 2:** Advanced AI/ML tasks with hands-on modeling and data analysis.
 - [Official Website](https://inaio.in/) | [Registration](https://manageexam.com/INAIO2026/)
 
+## Iran – Iranian AI Olympiad
+- [Official repository](https://github.com/IranAIOlympiad/Iran-AI-Olympiad) – Syllabus resources, sample problems, and practical-exam materials.
+- [2025 task notebooks and solutions](https://github.com/Radinam1386/Iran-AI-Olympiad-2025)
+
 ## Japan – JOAI 2025
 - [Kaggle competition](https://www.kaggle.com/competitions/joai-2025-competition/overview) – Multimodal – classify gases using sensor tables, images, and text.
 - [Solution Repository 1](https://github.com/ryo-key/joai-2025-solution) – Solutions with ResNet, DeBERTa, LightGBM, and ensemble techniques.
@@ -97,6 +120,7 @@ Individual and Team Challenge with tasks in machine learning, natural language p
 
 ## Japan – JOAI 2026
 - [Kaggle competition](https://www.kaggle.com/competitions/joai-competition-2026) ([second link](https://www.kaggle.com/competitions/playground-joai-competition-2026)) – Time series regression – predict lever position from mouse brain activity (calcium signals across 88 channels).
+- [Movie Genre Multimodal mock task](https://www.kaggle.com/competitions/joai-movie-genre-multimodal) – Predict movie genres from posters and plot summaries.
 
 ## Kazakhstan – Team Selection Test
 - [Day 1: Image Restoration](https://github.com/batyrq/IOAI-TST-solution-day1) – CV – restore images after 2×2 channel filters.
@@ -105,8 +129,12 @@ Individual and Team Challenge with tasks in machine learning, natural language p
 - [Day 4: Masked Word Position](https://github.com/batyrq/IOAI-TST-solution-day4) – NLP – recover the position of a masked word in a sentence.
 - [All solutions](https://github.com/batyrq?tab=repositories) – Consolidated repository for Kazakhstan's IOAI team selection tasks.
 
+## Kazakhstan – Fizmat AI Olympiad
+- [FAIO task repository](https://github.com/BeksultanSagyndyk/faio-tasks) – Statements, datasets, and starter kits for the 2024 and 2025 qualification and main rounds.
+
 ## Malaysia – IOAI Training and Selection Programme 2025
 - [Lab repository](https://github.com/jaredliw/ioai-tsp-2025) – ML/CV/Multimodal – ResNet fine-tuning, FCN segmentation, and multimodality labs for Malaysia's team.
+- [MAIO 2025 task notebooks and solutions](https://github.com/roxanne0919/MAIO-2025) – Feature engineering, classification, and NLP tasks from the Malaysian AI Olympiad.
 
 ## Poland – Polish AI Olympiad
 ### 1st Edition – 2024
@@ -141,15 +169,14 @@ Individual and Team Challenge with tasks in machine learning, natural language p
 - [Solution write-ups](https://github.com/stefanasandei/roai-solved/blob/main/00-guide/rezolvari.md) – Detailed analyses of ROAI problems.
 - **ONIA 2026:** [Official Website](https://olimpiada-ai.ro/en) | [Practice Platform](https://judge.nitro-ai.org/competitions)
 
-## Serbia – National Selection for IOAI 2025
-- [Selection Overview](https://ioai-official.org/serbia-finals-4-team-members-selected-for-serbian-national-team-for-ioai-2025/) – National finals – scientific questions followed by team practical projects; top 4 advance.
-
 ## Tunisia – National AI Olympiad 2025
 - [Selection Overview](https://ioai-official.org/ai-tunisia-national-round-the-way-to-the-excellence-through-the-ioai-world-portal/) – Mixed AI challenges – individual and team hackathon-style tasks at the National AI Conference & Hackathon; selects IOAI representatives.
 
 ## United States – USA‑North America AI Olympiad 2025
 - **Round 1 (Mar 24, 2025, Online):** ML & data analysis – spectral decomposition, neural-network fundamentals, Titanic dataset tasks. [Overview](https://ioai-official.org/the-usa-north-america-ai-olympiad-is-organized-by-the-usa-ai-olympiad-usaaio/)
 - **Round 2 (Apr 27, 2025, MIT in-person):** Advanced ML challenges and model fine‑tuning tasks with workshops and panels. [Overview](https://ioai-official.org/the-usa-north-america-ai-olympiad-is-organized-by-the-usa-ai-olympiad-usaaio/)
+- [Official past problems](https://www.usaaio.org/past-problems) – Problem statements, datasets, templates, and answer keys for 2025 and 2026.
+- [Training and problem sets](https://github.com/greenporsche/usaaio-training) – Practice notebooks and archived contest problems.
 
 ## Egypt – AIO 2025
 - National AI Olympiad for school and university students in machine learning, computer vision, embedded systems, and cybersecurity.
@@ -201,11 +228,13 @@ Individual and Team Challenge with tasks in machine learning, natural language p
 ## Cyprus – IOAI Team Selection 2026
 - [Cyprus AI Camp 2026 Tasks (Kaggle)](https://www.kaggle.com/competitions/cyprus-ai-camp-2026-tasks) – National selection tasks for Cyprus's IOAI team (ML, CV, NLP, multimodal, and math-focused challenges).
 - [Competition abstract / schedule](https://www.kaggle.com/competitions/cyprus-ai-camp-2026-tasks/overview/abstract)
+- [Cyprus Summer AI Camp 2026 Tasks](https://www.kaggle.com/competitions/cyprus-summer-ai-camp-2026-tasks) – Additional task suite from the summer selection camp.
 
 ## Spain – IOAI Spain 2026
 - **Basic Cycle & Rounds 1-2 (Oct 2025 – Feb 2026):** Progressive online phases; no prior AI experience required; ChatGPT permitted.
 - Selection focuses on AI concepts, logic, reasoning, and practical problem-solving.
 - [Official Website](https://ioai-spain.org/)
+- [Tenerife IOAI Camp 2026 tasks](https://github.com/ave2407/tenerife_ioai_camp_2026) – Ten competition tasks covering tabular ML, NLP, CV, retrieval, audio, and generative modeling.
 
 ## Sweden – SAIO (Svenska AI-olympiaden)
 - [Problem archive](https://saio.kattis.com/) – Swedish AI olympiad contests from 2025 onwards. The 2025 qualifier was the first edition and can be skipped; the tasks weren't very good.
@@ -223,6 +252,7 @@ Individual and Team Challenge with tasks in machine learning, natural language p
 
 ## Learning Resources & Solution Repositories
 - [IOAI Writeup Repository](https://ioai-writeup.github.io/) – Unofficial solutions and writeups for IOAI 2025 tasks.
+- [NOIC-IA Problem Solutions](https://github.com/NOIC-IA/Problem-Solutions) – Solutions for IOAI, ONIA, and selection competition problems.
 - [roai-solved](https://github.com/stefanasandei/roai-solved) – Solutions for IOAI-type contests (NEOAI, Romanian, Polish Olympiads).
 - [OAI-Solves](https://github.com/franciszekparma/OAI-Solves) – Solutions to Polish AI Olympiad tasks.
 - [TomekUram's solutions](https://github.com/TomekUram/ai-olympiad-solutions) – AI Olympiad solution repository.
