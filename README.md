@@ -78,6 +78,7 @@ Individual and Team Challenge with tasks in machine learning, natural language p
 - [Day 2: Player Clustering](https://github.com/batyrq/IOAI-TST-solution-day2) – ML – cluster football players by statistics.
 - [Day 3: Code Difficulty Classification](https://github.com/batyrq/IOAI-TST-solution-day3) – NLP – label code snippets as easy, medium, or hard.
 - [Day 4: Masked Word Position](https://github.com/batyrq/IOAI-TST-solution-day4) – NLP – recover the position of a masked word in a sentence.
+
 ## Malaysia – IOAI Training and Selection Programme 2025
 - [Lab repository](https://github.com/jaredliw/ioai-tsp-2025) – ML/CV/Multimodal – ResNet fine-tuning, FCN segmentation, and multimodality labs for Malaysia's team.
 
@@ -99,12 +100,12 @@ Individual and Team Challenge with tasks in machine learning, natural language p
 
 ### 3rd Edition – 2026
 - **Stage 1 (Online Dec 1, 2025 – Jan 25, 2026):**
-  - [Convolutional Filters](https://github.com/OlimpiadaAI/III-OlimpiadaAI) – CV – introduction to computer vision techniques.
-  - [Multi-label Classification](https://github.com/OlimpiadaAI/III-OlimpiadaAI) – CV – assign multiple labels to images.
-  - [Whisper or Shout](https://github.com/OlimpiadaAI/III-OlimpiadaAI) – Audio – classify speech loudness.
-  - [Semantic Changes](https://github.com/OlimpiadaAI/III-OlimpiadaAI) – NLP – detect word meaning shifts in embeddings.
-  - [Multispectral Segmentation](https://github.com/OlimpiadaAI/III-OlimpiadaAI) – CV – segment satellite imagery.
-  - [Full Stage I repo](https://github.com/OlimpiadaAI/III-OlimpiadaAI)
+  - [Convolutional Filters](https://github.com/OlimpiadaAI/III-OlimpiadaAI/tree/main/1_etap/1_filtry_konwolucyjne) – CV – introduction to computer vision techniques.
+  - [Multi-label Classification](https://github.com/OlimpiadaAI/III-OlimpiadaAI/tree/main/1_etap/2_klasyfikacja_wieloetykietowa) – CV – assign multiple labels to images.
+  - [Whisper or Shout](https://github.com/OlimpiadaAI/III-OlimpiadaAI/tree/main/1_etap/3_szept_czy_krzyk) – Audio – classify speech loudness.
+  - [Semantic Changes](https://github.com/OlimpiadaAI/III-OlimpiadaAI/tree/main/1_etap/4_zmiany_semantyczne) – NLP – detect word meaning shifts in embeddings.
+  - [Multispectral Segmentation](https://github.com/OlimpiadaAI/III-OlimpiadaAI/tree/main/1_etap/5_segmentacja_multispektralna) – CV – segment satellite imagery.
+  - [Full Stage I repo](https://github.com/OlimpiadaAI/III-OlimpiadaAI/tree/main/1_etap)
 - [English translations](https://github.com/nickkipshidze/Polish-III-AI-Olympiad)
 
 ## Romania – ONIA
@@ -118,7 +119,7 @@ Individual and Team Challenge with tasks in machine learning, natural language p
 - [Cyprus AI Camp 2026 Tasks (Kaggle)](https://www.kaggle.com/competitions/cyprus-ai-camp-2026-tasks) – National selection tasks for Cyprus's IOAI team (ML, CV, NLP, multimodal, and math-focused challenges).
 
 ## Sweden – SAIO (Svenska AI-olympiaden)
-- [Problem archive](https://saio.kattis.com/) – Swedish AI olympiad contests from 2025 onwards. The 2025 qualifier was the first edition and can be skipped; the tasks weren't very good.
+- [Problem archive](https://saio.kattis.com/) – Swedish AI olympiad contests from 2025 onwards.
 
 ## Hungary – HAIO (Magyar MI Diákolimpia)
 - **2024 – Summer National:** 10 tasks (4 CV, 4 NLP, 2 theoretical). [Tasks & solutions](https://github.com/Hungarian-AI-Olympiad/HAIO-Hungarian-AI-Olympiad/tree/main/2024)
