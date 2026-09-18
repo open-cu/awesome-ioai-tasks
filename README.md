@@ -3,12 +3,17 @@ A collection for IOAI tasks from different years and national team selections. T
 
 We're going to search for more tasks from national selections and fix the links, but we're happy if you submit a PR with some links to your tasks or solutions, so we can add them. Thank you!
 
+## IOAI 2026 – 3rd Edition
+- [Official task repository](https://github.com/IOAI-official/IOAI-2026) – Three at-home notebook tasks and six on-site individual tasks, including statements, figures, translations, and GAITE hints.
+
 ## IOAI 2025 – 2nd Edition
 Individual and Team Challenge with tasks in machine learning, natural language processing, and computer vision.
 
 [GitHub Repository with Problems & Solutions](https://github.com/IOAI-official/IOAI-2025)
 
 ## IOAI 2024 – 1st Edition
+- [Official task repository](https://github.com/IOAI-official/IOAI-2024) – On-site task materials for Help BOBAI, Lost in Hyperspace, and Madarian Cow.
+
 ### Scientific Round – At-Home Stage (July 2024)
 - ML – Generate best features for a fixed ML model on structured data, where each sample is a matrix.
 - NLP – Fine-tune a language model on provided ciphered text of an unknown language.
@@ -61,6 +66,11 @@ Individual and Team Challenge with tasks in machine learning, natural language p
 ## Bangladesh – BdAIO 2025
 - [Preliminary Round](https://github.com/mdajijulhakimquanta/BdAIO/blob/main/bdaio-2025-preliminary.pdf) – Algorithms – 11 AI-themed programming challenges on Toph.
 
+## Bulgaria – National Team Selection
+- [2025 tasks](https://github.com/yonitoo/awesome-BGOAI-tasks/tree/main/2025/BG_Team_Selection) – Problems from both days of Bulgaria's 2025 IOAI team selection.
+- [2026 tasks](https://github.com/yonitoo/awesome-BGOAI-tasks/tree/main/2026/BG_Team_Selection) – Problems from both days of Bulgaria's 2026 IOAI team selection.
+- [2026 NCAI tasks](https://github.com/yonitoo/awesome-BGOAI-tasks/tree/main/2026/NCAI) – Tasks from Bulgaria's 2026 National Competition in Artificial Intelligence.
+
 ## China – NOAI 2024
 - [Basketball Shooting](https://github.com/jaredliw/ioai-tsp-2025/tree/main/noai-china-2024/basketball-shooting) – Tabular ML – predict basketball shooting percentages.
 - [News Text Classification](https://github.com/jaredliw/ioai-tsp-2025/tree/main/noai-china-2024/news-text-classification) – NLP – categorize news articles.
@@ -107,6 +117,7 @@ Individual and Team Challenge with tasks in machine learning, natural language p
 
 ## Malaysia – IOAI Training and Selection Programme 2025
 - [Lab repository](https://github.com/jaredliw/ioai-tsp-2025) – ML/CV/Multimodal – ResNet fine-tuning, FCN segmentation, and multimodality labs for Malaysia's team.
+- [MAIO 2025 task notebooks and solutions](https://github.com/roxanne0919/MAIO-2025) – Feature engineering, classification, and NLP tasks from the Malaysian AI Olympiad.
 
 ## Poland – Polish AI Olympiad
 ### 1st Edition – 2024
@@ -140,9 +151,6 @@ Individual and Team Challenge with tasks in machine learning, natural language p
 - **Training & Selection Camp (Jun 17–24, 2025, Bucharest):** [Article](https://ioai-official.org/romanias-national-ai-olympiad-roai-2025-kicks-off-with-government-backed-edition/) – ML/CV/NLP – three 5‑hour exams to choose the IOAI team.
 - [Solution write-ups](https://github.com/stefanasandei/roai-solved/blob/main/00-guide/rezolvari.md) – Detailed analyses of ROAI problems.
 - **ONIA 2026:** [Official Website](https://olimpiada-ai.ro/en) | [Practice Platform](https://judge.nitro-ai.org/competitions)
-
-## Serbia – National Selection for IOAI 2025
-- [Selection Overview](https://ioai-official.org/serbia-finals-4-team-members-selected-for-serbian-national-team-for-ioai-2025/) – National finals – scientific questions followed by team practical projects; top 4 advance.
 
 ## Tunisia – National AI Olympiad 2025
 - [Selection Overview](https://ioai-official.org/ai-tunisia-national-round-the-way-to-the-excellence-through-the-ioai-world-portal/) – Mixed AI challenges – individual and team hackathon-style tasks at the National AI Conference & Hackathon; selects IOAI representatives.
