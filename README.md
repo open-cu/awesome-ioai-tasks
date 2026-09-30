@@ -68,6 +68,11 @@ Individual and Team Challenge with tasks in machine learning, natural language p
 
 - [Official solutions repository](https://github.com/AI-Community-Contest/solutions/tree/main)
 
+## SprawdzAI
+
+- [Task list](https://sprawdzai.org/tasks) – Free online judge and task bank that runs and scores your submissions on GPUs. Includes all IOAI and OAI (Polish AI Olympiad) tasks, plus many original community-created tasks.
+- [Beginner course](https://sprawdzai.org/beginners) - An AI course from the basics to olympiad level.
+
 ## Benin – National AI Olympiad Selection 2025
 - [Kaggle competition](https://www.kaggle.com/competitions/benin-national-ai-olympiad-selection) – ML (binary classification) – build a classifier and submit predictions.
 
